@@ -7,7 +7,7 @@ Create, Read, Update dan Delete sederhana menggunakan RestAPI pada framework Lar
 Dibutuhkan PHP minimal versi 8.2
 
 ```bash
-  git clone git@github.com:azzula/crud-restapi-laravel11-filament3.git
+  gh repo clone azzula/crud-restapi-laravel11-filament3
 ```
 
 ```bash
@@ -48,6 +48,7 @@ Untuk membuat user :
 [Livewire](https://livewire.laravel.com/docs/quickstart)
 [Tailwind CSS](https://tailwindcss.com/docs/installation)
 [Filament](https://filamentphp.com/docs/3.x/panels/installation)
+
 ## Feedback
 
 Jika Anda memiliki masukan, silakan hubungi saya di m.sufyan@raharja.info
